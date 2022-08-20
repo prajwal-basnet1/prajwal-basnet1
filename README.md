@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @prajwal-basnet.
 - 👀 I’m interested in technology.  
 - 🌱 I’m currently learning react.
+-\ 
 Portfolio Website: basnetprajwal.com.np
 
 <!---
